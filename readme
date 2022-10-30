@@ -4,8 +4,8 @@ And a revision
 
 This code uses Processing 3.5.4 and the Java programming language.
 
-The BLONDE COVER EDITED file includes the code used to produce my project.
-The Blonde.jpeg file is the image that needs to be uploaded into the processing sketchbook so the code can use it.
+The BLONDE_COVER_EDITED.pde file includes the code used to produce my project.
+The Blonde.jpegg.jpeg file is the image that needs to be uploaded into the processing sketchbook so the code can use it.
 The tear.png file also needs to be uploaded into the processing sketchbook so the code can use it.
 The FRANK.mp3 file will also need to be uploaded into the processing sketchbook so the code can use it.
 
