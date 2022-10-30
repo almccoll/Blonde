@@ -1,4 +1,21 @@
 
 This is my read me file :)
-
 And a revision
+
+This code uses Processing 3.5.4 and the Java programming language.
+
+The BLONDE COVER EDITED file includes the code used to produce my project.
+The Blonde.jpeg file is the image that needs to be uploaded into the processing sketchbook so the code can use it.
+The tear.png file also needs to be uploaded into the processing sketchbook so the code can use it.
+The FRANK.mp3 file will also need to be uploaded into the processing sketchbook so the code can use it.
+
+In order to use the mp3 file, you will need to go to Sketch > Import Library > Add Library and then search for the sound library.
+Install this sound library and then the mp3 file will be able to play.
+
+Once all is uploaded into the sketchbook and the library is downloaded, pless play and the animated image will appear.
+
+You can interact with the text by hovering over it, try it out!
+
+Once done exit the tab and stop running the code.
+
+Thank you :)
